@@ -103,7 +103,11 @@ scoring_fit='accuracy')
 print(model.best_score_)
 print(model.best_params_)
 ```
-</td></tr>
+</td></tr></tr>
+<tr align='center'>
+<td> Keras </td>
+<td> RandomForest</td>
+</tr>
 <td>
 
 ```python
