@@ -188,6 +188,14 @@ plot_history(history)
 
 All notable changes in this project's released versions are documented in the [changelog](CHANGELOG.md) file.
 
+## Todo 
+
+*mlutil consists of machine learning methods/short hand techniques that we use on every machine Learning Project for better results.
+Methods that are useful for Data mining, Data visuz, Model Evaluation, Improving model parameters and many more.* 
+
+* Select one useful ML workflow.  
+* Add your code snippet to [mlutil.py](https://github.com/pawarashish564/mlutil/blob/master/mlutil.py)
+* Create Pull Request. 
 <!-- ## License -->
 
 MIT ⓒ Aashish Pawar. Follow me on Github [@pawarashish564 →](https://github.com/pawarashish564)

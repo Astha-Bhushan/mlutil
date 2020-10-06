@@ -1,6 +1,6 @@
 # CHANGELOG
 
-All notable changes in this project's [updates]() are documented in this file.
+All notable changes in this project's updates are documented in this file.
 
 <br>
 
@@ -32,31 +32,33 @@ All notable changes in this project's [updates]() are documented in this file.
 
 <br> -->
 
-### RELEASE: 1.1.0
+### Update: 0.0.1
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
 
-> 📦 Auto Changelog [`19433f1`]() <br>
-> 📦 First Version [`3fc01c1`]() <br>
-> 📦 First commit [`8c31a78`]() <br>
+> 📦 HyperParameter Optimization  <br>
+> 📦 plot_history for Keras Model history  <br>
 
-![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+<!-- > 📦 First Version [`3fc01c1`]() <br> -->
+<!-- > 📦 First commit [`8c31a78`]() <br> -->
+
+<!-- ![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
 
 > 👌 Add Component [`55e15b8`]() <br>
-> 👌 Spacing [`6ac3af6`]() <br>
+> 👌 Spacing [`6ac3af6`]() <br> -->
 
-![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+<!-- ![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
 
 > 🐛 Changelog [`5cca6f1`]() <br>
 > 🐛 broken badge [`4781b95`]() <br>
-> 🐛 Readme Header [`782eb02`]() <br>
+> 🐛 Readme Header [`782eb02`]() <br> -->
 
 ![DOCS](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
 
-> 📖 Changelog link [`3c11c1b`]() <br>
-> 📖 Changelog [`2dff221`]() <br>
->  📖 Update the changelog [`57a4bae`]() <br>
->  📖 Update the changelog [`241a54a`]() <br>
-> 📖 Readme Header [`67335da`]() <br>
+> 📖 Readme header  <br>
+> 📖 Project setup  <br>
+<!-- >  📖 Update the changelog [`57a4bae`]() <br> -->
+<!-- >  📖 Update the changelog [`241a54a`]() <br> -->
+<!-- > 📖 Readme Header [`67335da`]() <br> -->
 
 <br>
