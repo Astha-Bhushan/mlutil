@@ -32,7 +32,9 @@ All notable changes in this project's updates are documented in this file.
 
 <br> -->
 
-### Update: 0.0.1
+### Update: 0.0.1 
+
+<br/>
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
 
@@ -62,3 +64,13 @@ All notable changes in this project's updates are documented in this file.
 <!-- > 📖 Readme Header [`67335da`]() <br> -->
 
 <br>
+
+### Update: 0.0.2 
+
+<br>
+
+
+![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 fit(num_epochs, model, loss_fn, opt, train_dl) method for PyTorch Models. <br>
+
